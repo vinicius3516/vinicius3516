@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, meu nome é Vinicius costa</h1>
+<h1 align="center">Ola 👋, meu nome é Vinicius costa</h1>
 <h3 align="center">Como Desenvolvedor Front-end, neste espaço, compartilho os projetos que desenvolvo durante os estudo e alguns projetos pessoais tambem.</h3>
 
 <h3 align="left">Connect with me:</h3>
