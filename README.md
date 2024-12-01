@@ -1,5 +1,6 @@
-<h1 align="center">Ola 👋, meu nome é Vinicius costa</h1>
-<h3 align="center">Como Desenvolvedor Front-end, neste espaço, compartilho os projetos que desenvolvo durante os estudo e alguns projetos pessoais tambem.</h3>
+<h1 align="center">Vinicius Costa | Cloud Engineer Aspirante ☁️</h1>
+<h3 align="center">Bem-vindo ao meu GitHub! 🚀</h3>
+<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em construir uma carreira como Cloud Engineer, com ênfase no Google Cloud Platform (GCP). Aqui, você encontrará projetos práticos que demonstram minhas habilidades em computação em nuvem, automação, infraestrutura como código e DevOps.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
