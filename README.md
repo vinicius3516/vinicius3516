@@ -17,8 +17,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em constr
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas:</h3>
 <p align="left">
-<a href="https://www.google.com/search?q=google+cloud+platform" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Cloud_logo.svg" alt="Google Cloud Platform" width="40" height="40"/> 
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Google_Cloud_logo.svg/1200px-Google_Cloud_logo.svg.png" alt="Google Cloud Platform" width="40" height="40"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -39,6 +39,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em constr
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
 </a>
 </p>
+
 
 ---
 
