@@ -1,7 +1,7 @@
-<h1 align="center">Vinicius Costa | Cloud Engineer Aspirante ☁️</h1>
+<h1 align="center">Vinicius Costa | Solutions Architect ☁️</h1>
 <h3 align="center">Bem-vindo ao meu GitHub! 🚀</h3>
 <h3 align="center">
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em construir uma carreira como Cloud Engineer, com ênfase no Google Cloud Platform (GCP). Aqui, você encontrará projetos práticos que demonstram minhas habilidades em computação em nuvem, automação, infraestrutura como código e DevOps.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em construir uma carreira como Solutions Architect, com ênfase no Google Cloud Platform (GCP) e AWS. Aqui, você encontrará projetos práticos que demonstram minhas habilidades em computação em nuvem, automação, infraestrutura como código e DevOps.
 </h3>
 
 ---
