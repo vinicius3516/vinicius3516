@@ -45,16 +45,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em constr
 <h3 align="left">📂 Projetos em Destaque:</h3>
 <ul>
   <li>
-    <b><a href="https://github.com/seu-usuario/high-availability-web-app">Aplicação Web com Auto Scaling no GCP</a></b>
-    <br>Criação de uma aplicação web escalável usando Compute Engine, Load Balancer e Cloud Monitoring.
-  </li>
-  <li>
-    <b><a href="https://github.com/seu-usuario/multi-region-architecture">Arquitetura Multi-Regional</a></b>
-    <br>Configuração de serviços multi-regionais com alta disponibilidade no GCP.
-  </li>
-  <li>
-    <b><a href="https://github.com/seu-usuario/real-time-data-pipeline">Pipeline de Dados em Tempo Real</a></b>
-    <br>Processamento de dados em tempo real usando Pub/Sub, Dataflow e BigQuery.
+    <b><a href="https://github.com/vinicius3516/task-manager">Gerenciador de Tarefas - Arquitetura Baseada em Cloud Run</a></b>
+    <br>Este projeto demonstra a implementação de uma aplicação desenvolvida em Python, com uma arquitetura moderna baseada em containers e serviços gerenciados do Google Cloud Platform (GCP)
   </li>
 </ul>
 
