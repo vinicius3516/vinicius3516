@@ -8,8 +8,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em constr
 
 <h3 align="left">🌐 Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vinicius-costa-407b47278/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinicius Costa LinkedIn" height="30" width="40" />
+<a href="https://www.linkedin.com/in/solutions-architec/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/@tabler/icons@2.47.0/icons/brand-linkedin.svg" alt="Vinicius Costa LinkedIn" height="30" width="40" />
+</a>
+<a href="https://vinnycloud.com.br/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/ionicons@7.2.2/dist/svg/earth-sharp.svg" alt="WebSite" height="30" width="40" />
 </a>
 </p>
 
@@ -35,8 +38,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em constr
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </a>
-<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="BigQuery" width="40" height="40"/>
+<a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </a>
 </p>
 
@@ -47,6 +50,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em constr
   <li>
     <b><a href="https://github.com/vinicius3516/task-manager">Gerenciador de Tarefas - Arquitetura Baseada em Cloud Run</a></b>
     <br>Este projeto demonstra a implementação de uma aplicação desenvolvida em Python, com uma arquitetura moderna baseada em containers e serviços gerenciados do Google Cloud Platform (GCP)
+  </li>
+</ul>
+<ul>
+  <li>
+    <b><a href="https://github.com/vinicius3516/Notion-habit-tracker">Notion Habit Tracker Automation</a></b>
+    <br>Automação de criação semanal de hábitos no Notion usando Python, AWS Lambda, GitHub Actions e integração com a Notion API.
   </li>
 </ul>
 
