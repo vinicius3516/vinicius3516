@@ -82,12 +82,26 @@ Atuação com gestão de dispositivos, acessos, notebooks e impressoras.
 ---
 
 <div align="center">
-
   <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Infraestrutura+como+c%C3%B3digo;DevOps+na+pr%C3%A1tica;Cloud+native;Kubernetes;Google+Cloud+Plataform" 
       alt="Typing SVG" 
     />
   </a>
-
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- GitHub Stats Cards -->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vinicius3516&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius3516&theme=blueberry&layout=compact&card_width=100">
+</div>
+
