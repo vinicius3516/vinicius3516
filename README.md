@@ -7,7 +7,7 @@
 <!-- Contact Badges -->
 <p align="center">
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/seu-linkedin" style="text-decoration: none;">
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/devops-vinicius/)" style="text-decoration: none;">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" 
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2496ED" />
   </a>
@@ -19,7 +19,7 @@
   </a>
 
   <!-- GitHub Repositories Badge -->
-  <a href="https://github.com/seu-usuario" style="text-decoration: none;">
+  <a href="https://github.com/vinicius3516?tab=repositories" style="text-decoration: none;">
     <img alt="Repositories" title="See my repositories on GitHub" 
          src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=2496ED" />
   </a>
