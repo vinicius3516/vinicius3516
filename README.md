@@ -85,7 +85,7 @@ Atuação com gestão de dispositivos, acessos, notebooks e impressoras.
 
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Infraestrutura+como+c%C3%B3digo;DevOps+na+pr%C3%A1tica;Cloud+nativa+e+eficiente" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Infraestrutura+como+c%C3%B3digo;DevOps+na+pr%C3%A1tica;Cloud+native+e+eficiente" 
       alt="Typing SVG" 
     />
   </a>
