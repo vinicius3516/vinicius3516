@@ -1,75 +1,93 @@
-<h1 align="center">Vinicius Costa | DevOps Engineer ☁️</h1>
-<h3 align="center">Bem-vindo ao meu GitHub! 🚀</h3>
-<h3 align="center">
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em construir uma carreira como DevOps Engineer, com ênfase no Google Cloud Platform (GCP), AWS e Azure. Aqui, você encontrará projetos práticos que demonstram minhas habilidades em computação em nuvem, automação, infraestrutura como código e DevOps.
-</h3>
+# Vinicius Costa
 
----
+**`DevOps Engineer`**
 
-<h3 align="left">🌐 Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/solutions-architec/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/@tabler/icons@2.47.0/icons/brand-linkedin.svg" alt="Vinicius Costa LinkedIn" height="30" width="40" />
-</a>
-<a href="https://vinnycloud.com.br/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/ionicons@7.2.2/dist/svg/earth-sharp.svg" alt="WebSite" height="30" width="40" />
-</a>
+<br>
+
+<!-- Contact Badges -->
+<p align="center">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/seu-linkedin" style="text-decoration: none;">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2496ED" />
+  </a>
+
+  <!-- Email Badge -->
+  <a href="mailto:costavinicius692@gmail.com" style="text-decoration: none;">
+    <img alt="Email" title="Send me an email" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2496ED" />
+  </a>
+
+  <!-- GitHub Repositories Badge -->
+  <a href="https://github.com/seu-usuario" style="text-decoration: none;">
+    <img alt="Repositories" title="See my repositories on GitHub" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=2496ED" />
+  </a>
 </p>
 
----
+<!-- Linux Gif -->
+<img align="right" alt="linux-terminal" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="90px" />
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas:</h3>
-<p align="left">
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</a>
-</p>
+<br>
+
+Sou um profissional dedicado e proativo com experiência em Cloud Computing e Engenharia DevOps. Atualmente atuo como **Analista de Cloud Computing**, com foco em escalabilidade, resiliência e segurança. Tenho familiaridade com GCP, automação de infraestrutura, monitoramento de recursos e boas práticas DevOps. <a href="https://www.credly.com/badges/05583c87-adf7-4888-93f5-f28229c29078/linked_in_profile"> Certificado AWS </a> e apaixonado por aprender continuamente.
 
 ---
 
-<h3 align="left">📂 Projetos em Destaque:</h3>
-<ul>
-  <li>
-    <b><a href="https://github.com/vinicius3516/task-manager">Gerenciador de Tarefas - Arquitetura Baseada em Cloud Run</a></b>
-    <br>Este projeto demonstra a implementação de uma aplicação desenvolvida em Python, com uma arquitetura moderna baseada em containers e serviços gerenciados do Google Cloud Platform (GCP)
-  </li>
-</ul>
-<ul>
-  <li>
-    <b><a href="https://github.com/vinicius3516/Notion-habit-tracker">Notion Habit Tracker Automation</a></b>
-    <br>Automação de criação semanal de hábitos no Notion usando Python, AWS Lambda, GitHub Actions e integração com a Notion API.
-  </li>
-</ul>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks & Ferramentas</h3>
+
+<div align="center">
+  <img alt="Google Cloud" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</div>
 
 ---
 
-<h3 align="left">📈 Métricas do GitHub:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius3516&layout=compact&theme=radical" alt="Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=vinicius3516&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+<h3>📋 Experiência</h3>
+
+**Amado Maker**  
+📍 *Analista de Cloud Computing* — 2 anos e 4 meses  
+Responsável pelo gerenciamento da infraestrutura na GCP, criação e administração de VMs, configuração de bancos de dados, otimização de recursos e suporte técnico.
+
+📍 *Analista de Suporte de TI* — 10 meses  
+Atuação com gestão de dispositivos, acessos, notebooks e impressoras.
 
 ---
 
-<h3 align="left">📖 Sobre os Meus Projetos:</h3>
-<p align="left">
-Todos os meus projetos estão documentados detalhadamente, com links para demonstrações (quando aplicável), diagramas de arquitetura e explicações sobre as tecnologias utilizadas. Sinta-se à vontade para explorar os repositórios, testar as demonstrações e deixar feedback!
-</p>
+<h3>🎓 Formação</h3>
+
+- 💻 Análise e Desenvolvimento de Sistemas – Anhanguera  
+
+---
+
+<h3>📜 Certificações</h3>
+
+- ☁️ <a href="https://www.credly.com/badges/05583c87-adf7-4888-93f5-f28229c29078/linked_in_profile">AWS Certified Cloud Practitioner</a>
+- 🐧 <a href="https://certificado.devopspro.com.br/certificado?code=ab5e20b1-a3c7-4397-b2f2-4250058c9eb8">Linux</a>  
+- 🐳 <a href="https://certificado.devopspro.com.br/certificado?code=6cd6ad91-1ec6-4421-b390-2d6a0046678e">Docker</a>  
+- ☸️ <a href="https://certificado.devopspro.com.br/certificado?code=7d248654-51eb-493a-a75d-a2eb581cb4a2">Kubernetes</a>   
+- ⚙️ <a href="https://certificado.devopspro.com.br/certificado?code=a1c7c03e-5bd9-4d5d-974a-945c68655306">GitHub Actions</a>  
+- 🧱 <a href="https://certificado.devopspro.com.br/certificado?code=17539092-5b71-49e5-a473-dcd890b5f404">Terraform</a>   
+- 🔧 <a href="https://certificado.devopspro.com.br/certificado?code=17f692e1-f9d6-4b50-b05c-7c7f69d7db1c">Ansible</a>  
+- 📈 <a href="https://certificado.devopspro.com.br/certificado?code=17f692e1-f9d6-4b50-b05c-7c7f69d7db1c">Prometheus</a>  
+- 📊 <a href="https://certificado.devopspro.com.br/certificado?code=17f692e1-f9d6-4b50-b05c-7c7f69d7db1c">Grafana Loki</a>
+
+---
+
+<div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Infraestrutura+como+c%C3%B3digo;DevOps+na+pr%C3%A1tica;Cloud+nativa+e+eficiente" 
+      alt="Typing SVG" 
+    />
+  </a>
+
+</div>
