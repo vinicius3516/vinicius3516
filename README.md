@@ -25,6 +25,13 @@
   </a>
 </p>
 
+<!-- Badges de Certificações em Destaque -->
+<p align="center">
+  <img src="./associate-cloud-engineer-certification.png" alt="Associate Cloud Engineer" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150" />
+</p>
+
 <!-- Linux Gif -->
 <img align="right" alt="linux-terminal" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="90px" />
 
@@ -69,6 +76,7 @@ Atuação com gestão de dispositivos, acessos, notebooks e impressoras.
 
 <h3>📜 Certificações</h3>
 
+- ☁️ <a href="https://www.credly.com/badges/e1e139a6-f80e-4bcb-8dcf-d090e69e5ec2/linked_in_profile">Associate Cloud Engineer Certification</a>
 - ☁️ <a href="https://www.credly.com/badges/05583c87-adf7-4888-93f5-f28229c29078/linked_in_profile">AWS Certified Cloud Practitioner</a>
 - 🐧 <a href="https://certificado.devopspro.com.br/certificado?code=ab5e20b1-a3c7-4397-b2f2-4250058c9eb8">Linux</a>  
 - 🐳 <a href="https://certificado.devopspro.com.br/certificado?code=6cd6ad91-1ec6-4421-b390-2d6a0046678e">Docker</a>  
